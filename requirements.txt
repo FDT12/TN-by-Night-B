@@ -1,0 +1,10 @@
+flask
+Flask-SQLAlchemy
+python-dotenv
+flask-smorest
+SQLAlchemy
+Flask-JWT-Extended
+flask-cors
+playwright
+flask-bcrypt
+requests

@@ -1,0 +1,15 @@
+Scraping Report - 2026-01-02 17:42:06.765443
+==================================================
+Total events scraped: 2
+
+1. CIRQUE PAPARONI
+   Place: lycée ezzahra
+   Date: 20 Décembre 2025 à 17:00
+   Price: 20 TND
+   URL: https://teskerti.tn/evenement/cirque-paparoni
+
+2. CIRQUE PAPARONI
+   Place: lycée ezzahra
+   Date: 20 Décembre 2025 à 17:00
+   Price: 20 TND
+   URL: https://teskerti.tn/evenement/cirque-paparoni
